@@ -12,22 +12,18 @@ const Home = () => {
 
     const loadProductsBySell = () => {
         getProducts('sold').then(data => {
-            if (data.error) {
-                setError(data.error);
-            } else {
+             
                 setProductsBySell(data);
-            }
+            
         });
     };
 
     const loadProductsByArrival = () => {
         getProducts('createdAt').then(data => {
             console.log(data);
-            if (data.error) {
-                setError(data.error);
-            } else {
+            
                 setProductsByArrival(data);
-            }
+            
         });
     };
 
