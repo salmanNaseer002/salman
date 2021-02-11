@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/salman/static/css/main.5911b444.chunk.css",
+    "main.js": "/salman/static/js/main.1a239001.chunk.js",
+    "main.js.map": "/salman/static/js/main.1a239001.chunk.js.map",
+    "runtime-main.js": "/salman/static/js/runtime-main.bdf43840.js",
+    "runtime-main.js.map": "/salman/static/js/runtime-main.bdf43840.js.map",
+    "static/js/2.36bb1d14.chunk.js": "/salman/static/js/2.36bb1d14.chunk.js",
+    "static/js/2.36bb1d14.chunk.js.map": "/salman/static/js/2.36bb1d14.chunk.js.map",
+    "index.html": "/salman/index.html",
+    "static/css/main.5911b444.chunk.css.map": "/salman/static/css/main.5911b444.chunk.css.map",
+    "static/js/2.36bb1d14.chunk.js.LICENSE.txt": "/salman/static/js/2.36bb1d14.chunk.js.LICENSE.txt",
+    "static/media/aboutpic1.af328a37.png": "/salman/static/media/aboutpic1.af328a37.png",
+    "static/media/jobsIcon.580a73b5.png": "/salman/static/media/jobsIcon.580a73b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdf43840.js",
+    "static/js/2.36bb1d14.chunk.js",
+    "static/css/main.5911b444.chunk.css",
+    "static/js/main.1a239001.chunk.js"
+  ]
+}
